@@ -22,7 +22,7 @@ def equalTo(x,y):
     else:
         return False
 
-#greaterOrEqualTo Function
+#greaterOrEqual Function
 def greaterOrEqual(x,y):
     if x >= y:
         return True
@@ -30,8 +30,8 @@ def greaterOrEqual(x,y):
     else:
         return False
 
-#lessThanOrEqualTo Function
-def lessThanOrEqual(x,y):
+#lessThanOrEqual Function
+def lessOrEqual(x,y):
     if x <= y:
         return True
 
